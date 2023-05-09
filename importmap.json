@@ -1,0 +1,10 @@
+{
+  "imports": {
+    "@hrc/root-config": "https://cdn.jsdelivr.net/gh/mfAppRepo/mf_container@main/hrc-root-config.js",
+    "@hrc/mf-collections": "https://cdn.jsdelivr.net/gh/mfAppRepo/mf_container@main/hrc-mf-collections.js",
+    "@hrc/mf-common": "https://cdn.jsdelivr.net/gh/mfAppRepo/mf_container@main/hrc-mf-common.js",
+    "single-spa-html-js": "https://cdn.jsdelivr.net/gh/mfAppRepo/mf_container@main/index.js",
+    "react": "https://cdn.jsdelivr.net/npm/react@17.0.1/umd/react.production.min.js",
+    "react-dom": "https://cdn.jsdelivr.net/npm/react-dom@17.0.1/umd/react-dom.production.min.js"
+  }
+}
